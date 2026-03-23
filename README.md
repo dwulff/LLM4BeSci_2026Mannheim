@@ -67,9 +67,9 @@ drive.mount("/content/drive")
 4. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive:
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/dwulff/LLM4BeSci_2025MetaRep
+!git clone https://github.com/dwulff/LLM4BeSci_2026Mannheim
 ```
-5. Go back to your Google Drive and navigate to the folder "dwulff/LLM4BeSci_2025MetaRep" (this is your own copy, so you can edit it how you like, and the changes won't affect anyone else's copies). You should see the directories `day_1`, `day_2`, `day_3` containing the relevant notebooks (.ipynb files) and data (it may take a couple of minutes for the files to appear) for each day's exercises.
+5. Go back to your Google Drive and navigate to the folder "dwulff/LLM4BeSci_2026Mannheim" (this is your own copy, so you can edit it how you like, and the changes won't affect anyone else's copies). You should see the directories `day_1`, `day_2`, `day_3` containing the relevant notebooks (.ipynb files) and data (it may take a couple of minutes for the files to appear) for each day's exercises.
 
 You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
 
