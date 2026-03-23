@@ -35,18 +35,15 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 04:45 PM - 05:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
 
 ### Resources
-&#128196 <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*.
-</a><br>
-<a href="https://doi.org/10.31219/osf.io/ybvzs">Wulff, Hussain, & Mata (2025). The Behavioral and Social Sciences Need Open LLMs. *OSF*.
-</a><br>
-<a href="https://doi.org/10.1038/s41562-024-02089-y">Wulff & Mata (2025). Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement. *Nature Human Behavior*.
-</a><br>
-<a href="https://doi.org/10.1177/096372142513820">Wulff & Mata (2025). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*.
-</a><br><br>
-
-[Hugging face documentation](https://huggingface.co/docs)<br>
-[Hugging face book](https://transformersbook.com/)<br>
-[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
+<ul>
+<li><a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*.</a></li>
+<li><a href="https://doi.org/10.31219/osf.io/ybvzs">Wulff, Hussain, & Mata (2025). The Behavioral and Social Sciences Need Open LLMs. *OSF*.</a></li>
+<li><a href="https://doi.org/10.1038/s41562-024-02089-y">Wulff & Mata (2025). Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement. *Nature Human Behavior*.</a></li>
+<li><a href="https://doi.org/10.1177/096372142513820">Wulff & Mata (2025). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*.</a></li>
+<li>[Hugging face documentation](https://huggingface.co/docs)</a></li>
+<li>[Hugging face book](https://transformersbook.com/)</a></li>
+<li>[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)</a></li>
+</ul>
 
 ### Before the course
 
