@@ -40,9 +40,9 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 <li><a href="https://doi.org/10.31219/osf.io/ybvzs">Wulff, Hussain, & Mata (2025). The Behavioral and Social Sciences Need Open LLMs. *OSF*.</a></li>
 <li><a href="https://doi.org/10.1038/s41562-024-02089-y">Wulff & Mata (2025). Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement. *Nature Human Behavior*.</a></li>
 <li><a href="https://doi.org/10.1177/096372142513820">Wulff & Mata (2025). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*.</a></li>
-<li>[Hugging face documentation](https://huggingface.co/docs)</a></li>
-<li>[Hugging face book](https://transformersbook.com/)</a></li>
-<li>[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)</a></li>
+<li><a href="https://huggingface.co/docs">Hugging face documentation</a></li>
+<li><a href="https://transformersbook.com/">Hugging face book</a></li>
+<li><a href="https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5">But what is a GPT (3Blue1Brown)</a></li>
 </ul>
 
 ### Before the course
