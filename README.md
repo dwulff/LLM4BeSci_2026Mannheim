@@ -1,6 +1,6 @@
 ## LLM4BeSci at Uni Mannehim, Mar 2026
 
-![cover image](cover_metarep.png)
+![cover image](cover_mannheim.png)
 
 The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. 
 
@@ -15,10 +15,10 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 10:00 PM - 11:00 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 11:00 PM - 11:15 PM: Break<br>
 11:15 PM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-11:45 PM - 12:00 PM: Lecture setup
-12:00 PM - 01:30 PM: Lecture
-01:30 PM - 02:30 PM: Lunch
-02:30 PM - 03:00 PM: Setup Colab & <br>
+11:45 PM - 12:00 PM: Lecture setup<br>
+12:00 PM - 01:30 PM: Lecture<br>
+01:30 PM - 02:30 PM: Lunch<br>
+02:30 PM - 03:00 PM: Setup Colab <br>
 03:45 PM - 04:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 04:30 PM - 05:00 PM: Walkthrough<br>
 
@@ -35,7 +35,7 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 04:45 PM - 05:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
 
 ### Resources
-<a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*.
+<p style="font-size:100px">&#128209;</p> <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*.
 </a><br>
 <a href="https://doi.org/10.31219/osf.io/ybvzs">Wulff, Hussain, & Mata (2025). The Behavioral and Social Sciences Need Open LLMs. *OSF*.
 </a><br>
