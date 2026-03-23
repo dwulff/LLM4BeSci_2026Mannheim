@@ -1,23 +1,26 @@
-## LLM4BeSci at MetaRep, MPIB Berlin, Dec 2025
+## LLM4BeSci at Uni Mannehim, Mar 2026
 
 ![cover image](cover_metarep.png)
 
 The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. 
 
-Help by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)<br>
+Held by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)<br>
 Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova](https://www.mpib-berlin.mpg.de/person/131137/2549), [Valentin Kriegmair](https://www.mpib-berlin.mpg.de/person/valentin-kriegmair/63440), and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">02:00 PM - 02:45 AM: Welcome & Intro<br>
-02:30 PM - 03:45 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
-03:45 PM - 04:00 PM: Break<br>
-04:00 PM - 04:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-04:30 PM - 04:45 PM: Setup Colab<br>
-04:45 PM - 05:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-05:30 PM - 06:00 PM: Walkthrough<br>
-           07:00 PM: Dinner (self-paid)<br> 
+<font style="font-size:10">
+09:30 PM - 10:00 AM: Welcome & Intro<br>
+10:00 PM - 11:00 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+11:00 PM - 11:15 PM: Break<br>
+11:15 PM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+11:45 PM - 12:00 PM: Lecture setup
+12:00 PM - 01:30 PM: Lecture
+01:30 PM - 02:30 PM: Lunch
+02:30 PM - 03:00 PM: Setup Colab & <br>
+03:45 PM - 04:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+04:30 PM - 05:00 PM: Walkthrough<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
@@ -25,39 +28,21 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2_embeddings.pdf)<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
-01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
-03:00 PM - 03:30 PM: Walkthrough<br>
+01:00 PM - 02:30 PM: Lunch<br>
+02:30 PM - 03:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
 03:30 PM - 03:45 PM: Break<br>
 03:45 PM - 04:45 PM: [Intro to classification and regression](day_2/day_2_classification.pdf)<br>
-04:15 PM - 05:15 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
-05:15 PM - 06:00 PM: Walkthrough<br>
-           07:00 PM: Dinner (self-paid)<br> 
-
-#### Day 3
-09:30 AM - 10:30 AM: Recap quiz<br>
-10:30 AM - 11:00 AM: [Talk: Intro to info extraction](day_3/day_3a.pdf)<br>
-11:00 AM - 11:15 AM: Break<br>
-11:10 AM - 12:00 PM: [Exercise: Info extraction from articles](day_3/day_3.ipynb) (see also [Outlines example](day_3/day_3_outlines.ipynb))<br>
-12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
-01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Talk: Research applications](day_3/day_3b.pdf)<br>
-03:00 PM - 04:00 PM: Open questions<br>
-
+04:45 PM - 05:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
 
 ### Resources
-<a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
-</a>
-```
-@article{hussain2024tutorial,
-  title={A tutorial on open-source large language models for behavioral science},
-  author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
-  journal={Behavior Research Methods},
-  pages={1--24},
-  year={2024},
-  publisher={Springer}
-}
-```
+<a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*.
+</a><br>
+<a href="https://doi.org/10.31219/osf.io/ybvzs">Wulff, Hussain, & Mata (2025). The Behavioral and Social Sciences Need Open LLMs. *OSF*.
+</a><br>
+<a href="https://doi.org/10.1038/s41562-024-02089-y">Wulff & Mata (2025). Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement. *Nature Human Behavior*.
+</a><br>
+<a href="https://doi.org/10.1177/096372142513820">Wulff & Mata (2025). Escaping the Jingle-Jangle Jungle: Increasing Conceptual Clarity in Psychology Using Large Language Models. *Current Directions in Psychological Science*.
+</a><br><br>
 
 [Hugging face documentation](https://huggingface.co/docs)<br>
 [Hugging face book](https://transformersbook.com/)<br>
