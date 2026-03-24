@@ -17,10 +17,11 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 11:15 PM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
 11:45 PM - 12:00 PM: Lecture setup<br>
 12:00 PM - 01:30 PM: Lecture<br>
-01:30 PM - 02:30 PM: Lunch<br>
-02:30 PM - 03:00 PM: Setup Colab <br>
-03:45 PM - 04:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-04:30 PM - 05:00 PM: Walkthrough<br>
+01:30 PM - 03:00 PM: Lunch<br>
+03:00 PM - 03:15 PM: Setup Colab <br>
+03:15 PM - 04:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+04:00 PM - 04:30 PM: Walkthrough<br>
+04:30 PM - 05:30 PM: Discussion: Find applications in small groups<br>
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
