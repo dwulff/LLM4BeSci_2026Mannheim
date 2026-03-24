@@ -1,4 +1,4 @@
-## LLM4BeSci at Uni Mannehim, Mar 2026
+## LLM4BeSci at Uni Mannehim, March 2026
 
 ![cover image](cover_mannheim.png)
 
