@@ -10,8 +10,7 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">
-09:30 PM - 10:00 AM: Welcome & Intro<br>
+<font style="font-size:10">09:30 PM - 10:00 AM: Welcome & Intro<br>
 10:00 PM - 11:00 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 11:00 PM - 11:15 PM: Break<br>
 11:15 PM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
