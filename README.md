@@ -10,29 +10,27 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">09:30 PM - 10:00 AM: Welcome & Intro<br>
-10:00 PM - 11:00 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
-11:00 PM - 11:15 PM: Break<br>
-11:15 PM - 11:45 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-11:45 PM - 12:00 PM: Lecture setup<br>
+<font style="font-size:10">10:00 PM - 10:30 AM: Welcome & Intro<br>
+10:30 PM - 11:30 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+11:30 PM - 12:00 PM: Break<br>
 12:00 PM - 01:30 PM: Lecture<br>
 01:30 PM - 03:00 PM: Lunch<br>
-03:00 PM - 03:15 PM: Setup Colab <br>
-03:15 PM - 04:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-04:00 PM - 04:30 PM: Walkthrough<br>
-04:30 PM - 05:30 PM: Discussion: Find applications in small groups<br>
+03:00 PM - 03:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+03:30 PM - 03:45 PM: Setup Colab <br>
+03:45 PM - 04:45 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+04:45 PM - 05:00 PM: Break<br>
+05:00 PM - 05:30 PM: Walkthrough<br>
+05:30 PM - 06:00 PM: Open questions<br>
 
 #### Day 2
-09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings](day_2/day_2_embeddings.pdf)<br>
-10:45 AM - 11:00 AM: Break<br>
+09:00 AM - 10:00 AM: [Talk: Intro to transformers & embeddings](day_2/day_2_embeddings.pdf)<br>
+10:00 AM - 10:15 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2_embeddings.pdf)<br>
-12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
+12:00 PM - 01:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
 01:00 PM - 02:30 PM: Lunch<br>
-02:30 PM - 03:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
-03:30 PM - 03:45 PM: Break<br>
-03:45 PM - 04:45 PM: [Intro to classification and regression](day_2/day_2_classification.pdf)<br>
-04:45 PM - 05:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
+02:30 PM - 03:30 PM: [Intro to classification and regression](day_2/day_2_classification.pdf)<br>
+03:30 PM - 04:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
+04:30 PM - 05:00 PM: Open questions <br>
 
 ### Resources
 <ul>
