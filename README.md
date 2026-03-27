@@ -26,7 +26,7 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 09:00 AM - 10:00 AM: [Talk: Intro to transformers & embeddings](day_2/day_2_embeddings.pdf)<br>
 10:00 AM - 10:15 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2_embeddings.pdf)<br>
-12:00 PM - 01:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
+12:00 PM - 01:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
 01:00 PM - 02:30 PM: Lunch<br>
 02:30 PM - 03:30 PM: [Intro to classification and regression](day_2/day_2_classification.pdf)<br>
 03:30 PM - 04:30 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
